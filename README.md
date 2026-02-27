@@ -15,7 +15,14 @@ Add Server and DataBase name (Fill in your local PostgresSQL details) then click
 
 It will then prompt you to log in using your credentials that you are using to connect to the database server.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2a4522a-1b1e-4eb9-bff1-74824df7f476" />
+text
+Server: localhost
+
+Database: your_database_name
+
+Username: your_username
+
+Password: your_password
 
 This being the final step, click Connect
 
