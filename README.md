@@ -13,6 +13,8 @@ Add Server and DataBase name (Fill in your local PostgresSQL details) then click
 
 <img width="800" height="408" alt="image" src="https://github.com/user-attachments/assets/bb6059be-b8a3-4d97-87bd-700565d09264" />
 
+It will then prompt you to log in using your credentials that you are using to connect to the database server.
+
 
 
 
