@@ -19,6 +19,8 @@ It will then prompt you to log in using your credentials that you are using to c
 
 This being the final step, click Connect
 
+![demo2](https://github.com/user-attachments/assets/49cdb85d-2fba-4c54-99e3-79a26437c81d)
+
 
 
 
